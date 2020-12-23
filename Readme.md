@@ -2,6 +2,11 @@
 
 ## Articles
 
+- [A Founder's Guide to Writing Well](https://firstround.com/review/a-founders-guide-to-writing-well/)
+  - Words and software share a wonderful attribute: Write them once and they can benefit an infinite audience at no additional expense.
+  - Eight clear tips on how to improve writing.
+- [Fintech Scales Vertical SaaS](https://a16z.com/2020/08/04/fintech-scales-vertical-saas/)
+  - Overview of software business models and why vertical SaaS plus fintech is the next one.
 - [Simple, correct, fast: in that order](https://drewdevault.com/2018/07/09/Simple-correct-fast.html)
   - Value of minimalism, without that, other aspects cannot be achieved.
 - [Stack Overflow: How We Do Monitoring - 2018 Edition](https://nickcraver.com/blog/2018/11/29/stack-overflow-how-we-do-monitoring/)
