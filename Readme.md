@@ -2,6 +2,33 @@
 
 ## Articles
 
+- [Simple, correct, fast: in that order](https://drewdevault.com/2018/07/09/Simple-correct-fast.html)
+  - Value of minimalism, without that, other aspects cannot be achieved.
+- [Stack Overflow: How We Do Monitoring - 2018 Edition](https://nickcraver.com/blog/2018/11/29/stack-overflow-how-we-do-monitoring/)
+  - In depth overview of monitoring tools and frameworks StackOverflow utilizes.
+- [How To Grow as An Engineering Manager in 7 Steps](https://medium.com/@inowland/how-to-grow-as-an-engineering-manager-in-7-steps-a1bf4dcf5e78)
+  - Concise overview of engineering manager growth.
+  - Balancing strategical and tactical.
+- [Object-Oriented Programming — The Trillion Dollar Disaster](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
+  - Long and clear argumentation why OOP is not that good.
+  - There’s no objective and open evidence that OOP is better than plain procedural programming.
+- [What Does It Take To Be a Successful Tech Lead?](https://blog.coleadership.com/what-does-it-take-to-be-a-successful-tech-lead/)
+  - A good tech lead excels in delivery and execution.
+  - A good tech lead builds a thriving team.
+  - A good tech lead builds alignment.
+  - A good tech lead balances priorities.
+  - A good tech lead is clear about what they want.
+- [Code-wise, cloud-foolish: avoiding bad technology choices](https://forrestbrazeal.com/2020/01/05/code-wise-cloud-foolish-avoiding-bad-technology-choices/)
+  - Counterweight to boring technology club, resonates with serverless.
+- [Non-exceptional averages](https://blog.ploeh.dk/2020/02/03/non-exceptional-averages/)
+  - Nice introduction into stronger typing.
+- [Microservices — architecture nihilism in minimalism's clothes](https://vlfig.me/posts/microservices)
+  - Distinguish between project/module segregation and deployment segregation.
+  - When to split and what are the good reasons for that.
+- [‘Give Away Your Legos’ and Other Commandments for Scaling Startups](https://firstround.com/review/give-away-your-legos-and-other-commandments-for-scaling-startups/)
+  - If you personally want to grow as fast as your company, you have to give away your job every couple months.
+  - A week ago, someone might have told you they hate their Legos and want to get rid of them. But as soon as you hire someone else, they suddenly want to hang on to all of them.
+  - Hiring is a network effect. The first 100 people you hire will define the next 200.
 - [What Gödel Discovered](https://stopa.io/post/269)
   - Incompleteness theorems for programmers.
   - Expressing logic in familiar programming language makes it much easier to understand compared to learning both, the matter and the language.
@@ -26,6 +53,8 @@
   
 ## Videos
 
+- [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+  - Development of AlphaGo and the 5-game match against best Go player in the world that AlphaGo won.
 - [Mistakes and Discoveries While Cultivating Ownership](https://www.youtube.com/watch?v=ddOGmao_cnA)
   - 5 levels of ownership:
     - Demonstration (telling what to do)
@@ -36,7 +65,11 @@
   - Alignment on level is important, not the level itself.
 - [Monolith Decomposition Patterns](https://www.youtube.com/watch?v=Q8Uw7iZDQbw)
   - Pragmatic talk about monolith decomposition, microservices, architecture and incremental evolution.
-
+- [Beyond Microservices: Streams, State and Scalability](https://www.youtube.com/watch?v=d_3-EUs_gBo)
+  - Overview of some more advanced software architecture patterns.
+- [Future of Data Engineering](https://www.youtube.com/watch?v=ZZr9oE4Oa5U)
+  - Evolutionary stages of data pipeline maturity.
+  
 ## Podcasts
 
 - [The Knowledge Project Podcast](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM)
@@ -45,6 +78,9 @@
       - Conciously saving time of other people, being mindful of consequences of their actions.
       - Great communicators, especially in written form, doing multiple self-reviews.
       - Reading a lot, both in terms of depth and breadth.
+  - [#96 Randall Stutman: The Essence of Leadership](https://open.spotify.com/episode/5Sor3nF9Xs2MZjeJofECLU?si=N2pl1FVKR9GcNWfYpdPcgw)
+    - Lot of "known truths" about leadership that deserve repetition.
+    - Feedback should always be balanced, start with positive and make sure negative has similar extent.
   - [#5 Chris Dixon: The State of Venture Capital](https://open.spotify.com/episode/6o6b8aVRvdzq0VEqoB4Mly)
     - Introduction to VC, history, seed, series A, series B.
     - Three main types of founders:
@@ -56,12 +92,28 @@
     - Value of multidisciplinary thinking and reading.
     - Power of good naming and rememberability (boiling frog vs. technically correct term).
     - Valuing business based on how much they fool others, cost effective > high margin.
-
+- [Pain of Scale](https://open.spotify.com/show/5DYzynTA5YB2zbQLqUsHNO)
+  - [The practiced art of founder communication](https://notion.vc/resources/the-practiced-art-of-founder-communication/)
+    - You’ve got to really be clear on the goals and objectives of the company and ensure you and your senior team have clarity.
+    - The 10 by 10 rule means that every day, you’re going to say that “why,” 10 times in 10 different ways.
+    - Build the structure of the company so that the message scales – the way you do that is by having your senior team  know what their job is on scaling the message.
+  - [Build smart and healthy teams and grow twice as fast](https://notion.vc/resources/build-smart-and-healthy-teams-and-grow-twice-as-fast/)
+    - First level is vulnerable trust.
+    - Second level is conflict.
+    - The third level is commitment.
+    - Once you’re out of the room, you then come to accountability. 
+    - The top level is results.
 ## Guides
 
 - [Stripe Atlas Guides](https://stripe.com/atlas/guides)
   - Guides for startups on how to run internet business.
+- [High Growth Handbook](http://growth.eladgil.com/)
+  - How scaling companies operate, overview of roles and responsibilities in startups and scaleups.
 - [Code Review Developer Guide](https://google.github.io/eng-practices/review/)
   - Code review process at Google, both from authors and reviewers perspective.
 - [re:Work](https://rework.withgoogle.com/guides/)
   - Practices, research, and tools from Google to improve your people processes.
+- [GitLab Handbook](https://about.gitlab.com/handbook/)
+  - Central knowledge repository of GitLab on how they run the company.
+- [High Output Founders' Library](https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a)
+  - Collection of resources for founders about pretty much all areas. 
