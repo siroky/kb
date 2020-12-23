@@ -53,6 +53,10 @@
   
 ## Videos
 
+- [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
+  - Pragmatic approach to adopting functional programming principles.
+- [Talking Architecture With Kevlin Henney](https://www.youtube.com/watch?v=Y6B4jYBR4Y8)
+  - Some guidance remains unaffected by the passing of paradigms, the evolution of technology or the scaling of development: break your software into small, cohesive parts defined by clear interfaces and sound implementations, all the while striving for simplicity.
 - [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
   - Development of AlphaGo and the 5-game match against best Go player in the world that AlphaGo won.
 - [Mistakes and Discoveries While Cultivating Ownership](https://www.youtube.com/watch?v=ddOGmao_cnA)
