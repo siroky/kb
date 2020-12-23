@@ -1,7 +1,5 @@
 # Knowledge Base
 
-## Articles
-
 ## Podcasts
 
 - [The Knowledge Project Podcast](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM)
