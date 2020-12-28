@@ -90,6 +90,10 @@
   - [#96 Randall Stutman: The Essence of Leadership](https://open.spotify.com/episode/5Sor3nF9Xs2MZjeJofECLU?si=N2pl1FVKR9GcNWfYpdPcgw)
     - Lot of "known truths" about leadership that deserve repetition.
     - Feedback should always be balanced, start with positive and make sure negative has similar extent.
+  - [#8 Julia Galef: The Art of Changing Minds](https://open.spotify.com/episode/6rxMwJOzeqSkeeak2IlzAa)
+    - It's irrational to think that all people are rational and can be persuaded by rational arguments.
+    - There are three levels: Correct, Wrong, "Not Even Wrong" :)
+    - Book recommendation: [LANGUAGE, TRUTH AND LOGIC](https://antilogicalism.com/wp-content/uploads/2017/07/language-truth-and-logic.pdf)
   - [#5 Chris Dixon: The State of Venture Capital](https://open.spotify.com/episode/6o6b8aVRvdzq0VEqoB4Mly)
     - Introduction to VC, history, seed, series A, series B.
     - Three main types of founders:
