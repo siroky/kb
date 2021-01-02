@@ -90,6 +90,10 @@
   - [#96 Randall Stutman: The Essence of Leadership](https://open.spotify.com/episode/5Sor3nF9Xs2MZjeJofECLU?si=N2pl1FVKR9GcNWfYpdPcgw)
     - Lot of "known truths" about leadership that deserve repetition.
     - Feedback should always be balanced, start with positive and make sure negative has similar extent.
+  - [#13 Pedro Domingos: The Rise of The Machines](https://open.spotify.com/episode/2WD3c1zCq0KJsOcJOispwG)
+    - Great overview of AI and its directions.
+    - People tend to overestimate their knowledge.
+    - Technological advances do not happen exponentially but in S-curves (which are similar to exponential in the beginning).
   - [#8 Julia Galef: The Art of Changing Minds](https://open.spotify.com/episode/6rxMwJOzeqSkeeak2IlzAa)
     - It's irrational to think that all people are rational and can be persuaded by rational arguments.
     - There are three levels: Correct, Wrong, "Not Even Wrong" :)
