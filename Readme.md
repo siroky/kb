@@ -2,6 +2,12 @@
 
 ## Articles
 
+- [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
+  - Description of the "W-model" used for longer term planning with 4 main phases:
+    - Leadership providing context.
+    - Teams creating plans aligned with the context.
+    - Leadership integrating the plans together, adjusting them and communicating that to teams.
+    - Teams make final tweaks and confirm buy in.
 - [A Founder's Guide to Writing Well](https://firstround.com/review/a-founders-guide-to-writing-well/)
   - Words and software share a wonderful attribute: Write them once and they can benefit an infinite audience at no additional expense.
   - Eight clear tips on how to improve writing.
