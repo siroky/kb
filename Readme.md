@@ -2,6 +2,8 @@
 
 ## Articles
 
+- [Ten lessons from a decade of vertical software investing](https://www.bvp.com/atlas/ten-lessons-from-a-decade-of-vertical-software-investing)
+  - Great overview of how to build and expand vertical SaaS + Fintech.
 - [Moving upmarket and the ascent of SMB SaaS](https://www.bvp.com/atlas/moving-upmarket-and-the-ascent-of-smb-saas)
   - Follow your fastest-growing customers.
   - Lead the way with the product, not sales.
