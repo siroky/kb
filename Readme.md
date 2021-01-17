@@ -2,6 +2,10 @@
 
 ## Articles
 
+- [Moving upmarket and the ascent of SMB SaaS](https://www.bvp.com/atlas/moving-upmarket-and-the-ascent-of-smb-saas)
+  - Follow your fastest-growing customers.
+  - Lead the way with the product, not sales.
+  - Don’t forfeit the low end.
 - [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
   - Description of the "W Framework", an alternative to OKRs, used for longer term planning with 4 main phases:
     - Leadership providing context.
