@@ -94,6 +94,10 @@
 ## Podcasts
 
 - [The Knowledge Project Podcast](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM)
+  - [#100 Matt Mullenweg: Collaboration Is Key](https://open.spotify.com/episode/0qRrtuq9yVEZZDraEWORgm)
+    - Make reversible decisions fast, irreversible decisions slow.
+    - Open source will win in the long run.
+    - Writing is the king, being able to synthesize and summarize is great skill.
   - [#98 Sahil Lavingia: Observing the Present](https://open.spotify.com/episode/3Tm3COwfgKpkEPIVHErbIu)
     - Traits of high performers:
       - Conciously saving time of other people, being mindful of consequences of their actions.
