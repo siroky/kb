@@ -70,6 +70,7 @@
   
 ## Videos
 
+- [Lambda World conference videos](https://www.youtube.com/c/LambdaWorld/videos)
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
   - Pragmatic approach to adopting functional programming principles.
 - [Talking Architecture With Kevlin Henney](https://www.youtube.com/watch?v=Y6B4jYBR4Y8)
