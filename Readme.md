@@ -2,6 +2,10 @@
 
 ## Articles
 
+- [The Relentless Jeff Bezos](https://stratechery.com/2021/the-relentless-jeff-bezos/)
+  - The main differentiator of bookstore was, that it could not be replicated in real life.
+  - High volumes allow Amazon to optimize the underlying costs.
+  - Amazon is its own biggest customer.
 - [Ten lessons from a decade of vertical software investing](https://www.bvp.com/atlas/ten-lessons-from-a-decade-of-vertical-software-investing)
   - Great overview of how to build and expand vertical SaaS + Fintech.
 - [Moving upmarket and the ascent of SMB SaaS](https://www.bvp.com/atlas/moving-upmarket-and-the-ascent-of-smb-saas)
