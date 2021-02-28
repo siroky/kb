@@ -2,6 +2,8 @@
 
 ## Articles
 
+- [Growth+Sales: The New Era of Enterprise Go-to-Market](https://a16z.com/2020/07/29/growthsales-the-new-era-of-enterprise-go-to-market/)
+  - Failure modes of product led companies.
 - [The Relentless Jeff Bezos](https://stratechery.com/2021/the-relentless-jeff-bezos/)
   - The main differentiator of bookstore was, that it could not be replicated in real life.
   - High volumes allow Amazon to optimize the underlying costs.
