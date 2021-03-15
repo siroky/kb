@@ -160,7 +160,7 @@
 
 ## Books
 
-- [Powerful](https://pattymccord.com/book/)
+- [Powerful: Building a Culture of Freedom and Responsibility](https://pattymccord.com/book/)
   - Problem finders, they're cheap. While it's good to be able to identify problem, it's much more valuable to be able to solve it as well.
   - Feedback should always be given face-to-face. Instead of listening to someone complaining about someone else, ask them "Have you told them yet?".
   - Raising concerns in advance is a must. The approach of "I told you so" ex-post, while it feels good, is rather sign of bad argumentation skills.
