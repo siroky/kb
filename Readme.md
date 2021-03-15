@@ -157,3 +157,15 @@
   - Central knowledge repository of GitLab on how they run the company.
 - [High Output Founders' Library](https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a)
   - Collection of resources for founders about pretty much all areas. 
+
+## Books
+
+- [Powerful](https://pattymccord.com/book/)
+  - Problem finders, they're cheap. While it's good to be able to identify problem, it's much more valuable to be able to solve it as well.
+  - Feedback should always be given face-to-face. Instead of listening to someone complaining about someone else, ask them "Have you told them yet?".
+  - Raising concerns in advance is a must. The approach of "I told you so" ex-post, while it feels good, is rather sign of bad argumentation skills.
+  - Companies don't exist to make employees happy. It's great when they're happy because of doing great work with great colleagues, not because of perks.
+  - Nostalgia is driver of resistance, things are changing rapidly, it's ok to move on. Managers are not career coaches. \[Pages 108-114\].
+  - Scientific method FTW. Instead of data-driven decision making, it should be data-infromed, fact-based decision making.
+  - Hiring should never be a numbers game. There should always be clear goal of it.
+  - Everyone should be incentivized to provide non-anonymous feedback to everyone else. E.g. via KISS once a year.
