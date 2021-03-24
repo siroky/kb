@@ -2,6 +2,11 @@
 
 ## Articles
 
+- [Focus on Your First 10 Systems, Not Just Your First 10 Hires — This Chief of Staff Shares His Playbook](https://review.firstround.com/focus-on-your-first-10-systems-not-just-your-first-10-hires-this-chief-of-staff-shares-his-playbook)
+  - Role of chief of staff.
+  - Annual goals and plans (finance, GTM, product, people).
+  - Quarterly business reviews and scorecards.
+  - Problem description docs prior to RFCs.
 - [Growth+Sales: The New Era of Enterprise Go-to-Market](https://a16z.com/2020/07/29/growthsales-the-new-era-of-enterprise-go-to-market/)
   - Failure modes of product led companies.
 - [The Relentless Jeff Bezos](https://stratechery.com/2021/the-relentless-jeff-bezos/)
