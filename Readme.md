@@ -2,6 +2,8 @@
 
 ## 📰 Articles
 
+- [OKRs and product roadmaps](https://www.getshipit.com/blog/okrs_and_product_roadmaps/)
+  - How to put together OKRs and long term initiatives/roadmaps.
 - [Focus on Your First 10 Systems, Not Just Your First 10 Hires — This Chief of Staff Shares His Playbook](https://review.firstround.com/focus-on-your-first-10-systems-not-just-your-first-10-hires-this-chief-of-staff-shares-his-playbook)
   - Role of chief of staff.
   - Annual goals and plans (finance, GTM, product, people).
