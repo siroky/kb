@@ -1,6 +1,6 @@
 # Knowledge Base
 
-## Articles
+## 📰 Articles
 
 - [Focus on Your First 10 Systems, Not Just Your First 10 Hires — This Chief of Staff Shares His Playbook](https://review.firstround.com/focus-on-your-first-10-systems-not-just-your-first-10-hires-this-chief-of-staff-shares-his-playbook)
   - Role of chief of staff.
@@ -79,7 +79,7 @@
 - [System design hack: Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/)
   - Great example of boring technology.
   
-## Videos
+## 🎥 Videos
 
 - [Lambda World conference videos](https://www.youtube.com/c/LambdaWorld/videos)
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
@@ -103,7 +103,7 @@
 - [Future of Data Engineering](https://www.youtube.com/watch?v=ZZr9oE4Oa5U)
   - Evolutionary stages of data pipeline maturity.
   
-## Podcasts
+## 🎙️ Podcasts
 
 - [The Knowledge Project Podcast](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM)
   - [#100 Matt Mullenweg: Collaboration Is Key](https://open.spotify.com/episode/0qRrtuq9yVEZZDraEWORgm)
@@ -148,7 +148,8 @@
     - The third level is commitment.
     - Once you’re out of the room, you then come to accountability. 
     - The top level is results.
-## Guides
+
+## 📝 Guides
 
 - [Stripe Atlas Guides](https://stripe.com/atlas/guides)
   - Guides for startups on how to run internet business.
@@ -163,7 +164,7 @@
 - [High Output Founders' Library](https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a)
   - Collection of resources for founders about pretty much all areas. 
 
-## Books
+## 📚 Books
 
 - [Powerful: Building a Culture of Freedom and Responsibility](https://pattymccord.com/book/)
   - Problem finders, they're cheap. While it's good to be able to identify problem, it's much more valuable to be able to solve it as well.
