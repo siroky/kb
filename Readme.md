@@ -2,6 +2,10 @@
 
 ## 📰 Articles
 
+- [Everyone Thinks They’re Managing by Outcomes. Here’s How to Actually Do it.](https://www.producttalk.org/2019/10/managing-outcomes)
+  - An outcome is typically defined by a quantitative metric—a number that is both meaningful to the business and measurable by the team. It creates autonomy and accountability.
+  - Too often, teams forget to explore the opportunity space at all. They jump straight from an outcome to a list of ideas.
+  - When we help our teams frame the opportunity space, we share our knowledge and expertise and we learn how our teams are thinking about the problem space.
 - [OKRs and product roadmaps](https://www.getshipit.com/blog/okrs_and_product_roadmaps/)
   - How to put together OKRs and long term initiatives/roadmaps.
 - [Focus on Your First 10 Systems, Not Just Your First 10 Hires — This Chief of Staff Shares His Playbook](https://review.firstround.com/focus-on-your-first-10-systems-not-just-your-first-10-hires-this-chief-of-staff-shares-his-playbook)
