@@ -2,6 +2,8 @@
 
 ## 📰 Articles
 
+- [Meaning and Motivation in the Workplace](https://medium.com/vendasta/meaning-and-motivation-in-the-workplace-192c116ea28f)
+  - Engineers should be involved in discovery not only because it increases the overall quality of the solution, but it makes them more happy as well.
 - [Everyone Thinks They’re Managing by Outcomes. Here’s How to Actually Do it.](https://www.producttalk.org/2019/10/managing-outcomes)
   - An outcome is typically defined by a quantitative metric—a number that is both meaningful to the business and measurable by the team. It creates autonomy and accountability.
   - Too often, teams forget to explore the opportunity space at all. They jump straight from an outcome to a list of ideas.
