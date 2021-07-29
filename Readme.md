@@ -2,6 +2,14 @@
 
 ## 📰 Articles
 
+- [The Complete Guide to the Kano Model](https://www.career.pm/briefings/kano-model)
+  - Feature is a curve in the space that shows how investment to the features correlates to satisfaction.
+  - Over time, this curve might change, something that was originally delighter may now be expected.
+  - There are four groups of features:
+    - Performance: The more we invest into the feature, the more our customers are satisfied.
+    - Must-be: Expected by customers, having them does not increase satisfaction, it eliminates dissatisfaction.
+    - Attractive: Features that go beyond the usual expectations and having them makes customers excited.
+    - Indifferent: No matter the investment, satisfaction remains the same.
 - [Meaning and Motivation in the Workplace](https://medium.com/vendasta/meaning-and-motivation-in-the-workplace-192c116ea28f)
   - Engineers should be involved in discovery not only because it increases the overall quality of the solution, but it makes them more happy as well.
 - [Everyone Thinks They’re Managing by Outcomes. Here’s How to Actually Do it.](https://www.producttalk.org/2019/10/managing-outcomes)
