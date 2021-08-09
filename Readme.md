@@ -177,8 +177,10 @@
   - Practices, research, and tools from Google to improve your people processes.
 - [GitLab Handbook](https://about.gitlab.com/handbook/)
   - Central knowledge repository of GitLab on how they run the company.
+- [Hypergrowth Playbook: from startup to scaleup](https://docs.google.com/document/d/1MThcRS87iI-qWE5t3uD794maNTcWB3IwNR69TTPbhP0/edit#heading=h.16qzd68409qu)
+  - Recruitement, culture, talent growth and culture of learning, communication, HR processes. 
 - [High Output Founders' Library](https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a)
-  - Collection of resources for founders about pretty much all areas. 
+  - Collection of resources for founders about pretty much all areas.
 
 ## 📚 Books
 
