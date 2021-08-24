@@ -2,6 +2,10 @@
 
 ## 📰 Articles
 
+- [VP, Director, what?](https://www.theengineeringmanager.com/managing-managers/vp-director-what/)
+  - Engineering Manager manages a team, guides others to win individual battles and engagements.
+  - Engineering Director manages Engineering Managers, executes to accomplish strategic goals.
+  - VP Engineering manages Engineering Directors, defines outcomes that form strategic goals.
 - [The Complete Guide to the Kano Model](https://www.career.pm/briefings/kano-model)
   - Feature is a curve in the space that shows how investment to the features correlates to satisfaction.
   - Over time, this curve might change, something that was originally delighter may now be expected.
