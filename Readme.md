@@ -188,6 +188,54 @@
 
 ## 📚 Books
 
+- [Accelerate](https://itrevolution.com/book/accelerate/)
+  - Software delivery is an exercise in continuous improvement, the best keep getting better and those who fail to improve fall further behind.
+  - Ideally we should reward developers for solving business problems with minimum amount of code, even better by not writing any code or deleting code.
+  - Metrics of software delivery performance:
+    - **Tempo**
+      - Lead time (fast feedback loop, faster fixing of problems and improvements).
+      - Deployment frequency (proxy for batch size which reduces risk and improves efficiency).
+    - **Stability**
+      - Mean time to restore (failure is inevitable, it's important how fast we can recover).
+      - Change fail percentage (how many changes lead to outage that requires hotfix, rollback or fix-forward).
+  - Software deivery performance implies:
+    - Organizational performance.
+    - Non-commercial performance.
+    - Ability to discover faster.
+  - Start with culture, which can be measured as well.
+    - Pathological - fear, witholding of information.
+    - Bureaucratic - following process is above fulfillment of mission.
+    - Generative - focus on mission and good performance.
+  - Generative culture implies good software delivery performance and organization performance
+  - **Continuous delivery** has positive impact on generative culture, delivery performance, quality and even identification with the organization and work life balance.
+    - Build quality in, issues should be detected as soon as possible to minimize impact and costs of fixes.
+    - Work in small batches, it should be super simple to push out changes.
+    - Automate manual testing and deployments, deployments should be painless for the devs.
+    - Pursue continuous improvement.
+    - Everyone is responsible for delivery, no segregation of development, testing and operations.
+    - Everything as code stored in version control system, especially configuration of apps and system (IaC).
+    - Continuous integration, short living branches integrated to main branch and immediately built and tested.
+    - Continuous testing throughout development process on every commit. Test reliability and quality test data is super important.
+    - Security deeply integrated into development process, security people members of teams, shifting from reviewers to tool makers.
+    - Loosely coupled architecture, independence on other teams in terms of development, testability and deployability.
+    - Freedom to choose tools.
+  - Lean engineering management improves software delivery performance.
+    - Limiting work in progress should cause process improvements.
+    - Visualize important metrics.
+    - Gather feedback (APM) from production and decide based on it.
+    - Lightweight (e.g. intrateam) code review process is needed for good tempo.
+    - Unplanned work is a good proxy measure of quality.
+  - Lean product management drives and also is driven by software delivery performance.
+    - Slice product to small batches, deliverable in less than a week.
+    - Provide everyone great visibility into work up to understanding of customers.
+    - Gather and implement user feedback.
+    - Make it possible to make changes throughout the process, avoid rigid specs.
+  - Transformational leadership
+    - Clear understanding of vision and direction.
+    - Inspirational communication,
+    - Intellectual stimulation, challenge to think in new ways.
+    - Supportive leadership.
+    - Personal recognition.
 - [Powerful: Building a Culture of Freedom and Responsibility](https://pattymccord.com/book/)
   - Problem finders, they're cheap. While it's good to be able to identify problem, it's much more valuable to be able to solve it as well.
   - Feedback should always be given face-to-face. Instead of listening to someone complaining about someone else, ask them "Have you told them yet?".
