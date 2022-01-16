@@ -2,6 +2,8 @@
 
 ## 📰 Articles
 
+- [Inspection and the limits of trust](https://lethain.com/inspection/)
+  - You absolutely must trust your team to scale as a leader. Even more importantly, though, I hope you appreciate that merely trusting your team is abdicating from one of the most important parts of your role: helping your team succeed. Errors are a natural part of work, and inspection allows you to maintain trust through errors.
 - [VP, Director, what?](https://www.theengineeringmanager.com/managing-managers/vp-director-what/)
   - Engineering Manager manages a team, guides others to win individual battles and engagements.
   - Engineering Director manages Engineering Managers, executes to accomplish strategic goals.
