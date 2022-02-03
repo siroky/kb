@@ -10,6 +10,7 @@
     - Mission driven
     - Excellence driven
     - Business driven
+  - "For many years, companies have worked hard on identifying their WHY if they weren't mission/ purpose-driven and market it via their EVP (Employer Value Proposition) but I believe there is a new era coming for the “How” post-covid 19."
 - [Inspection and the limits of trust](https://lethain.com/inspection/)
   - You absolutely must trust your team to scale as a leader. Even more importantly, though, I hope you appreciate that merely trusting your team is abdicating from one of the most important parts of your role: helping your team succeed. Errors are a natural part of work, and inspection allows you to maintain trust through errors.
 - [VP, Director, what?](https://www.theengineeringmanager.com/managing-managers/vp-director-what/)
