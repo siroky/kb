@@ -2,6 +2,14 @@
 
 ## 📰 Articles
 
+- [What are you doing to deserve the talents you need?](https://ritzy-ptarmigan-123.notion.site/What-are-you-doing-to-deserve-the-talents-you-need-7cfcc7c004fd49a7af87ba2f4da19042)
+  - Job vs. career vs. calling.
+  - Savers vs. investors vs. founders.
+  - Four types of companies:
+    - Purpose driven
+    - Mission driven
+    - Excellence driven
+    - Business driven
 - [Inspection and the limits of trust](https://lethain.com/inspection/)
   - You absolutely must trust your team to scale as a leader. Even more importantly, though, I hope you appreciate that merely trusting your team is abdicating from one of the most important parts of your role: helping your team succeed. Errors are a natural part of work, and inspection allows you to maintain trust through errors.
 - [VP, Director, what?](https://www.theengineeringmanager.com/managing-managers/vp-director-what/)
