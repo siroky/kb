@@ -149,6 +149,23 @@
   - [#96 Randall Stutman: The Essence of Leadership](https://open.spotify.com/episode/5Sor3nF9Xs2MZjeJofECLU?si=N2pl1FVKR9GcNWfYpdPcgw)
     - Lot of "known truths" about leadership that deserve repetition.
     - Feedback should always be balanced, start with positive and make sure negative has similar extent.
+  - [#27 Chris Voss: The Art of Letting Other People Have Your Way](https://open.spotify.com/episode/4L9DUGCNT4XFr3wmXVj5Uw)
+    - Put fears / dealbreakers proactively on the table. Do an accusation audit (e.g. we're big, we might be seen as bullies).
+    - Fear of loss is twice as big as joy of win.
+    - "It seems you have something on your mind" works much better than "What's on your mind?"
+    - Trust is predictability.
+  - [#23 Ray Dalio: Life Lessons from a Self-Made Billionaire](https://open.spotify.com/episode/4evKNkUC8SGeyrEIx13npg)
+    - Ideo-meritocracy:
+      - Honestly put ideas on the table.
+      - Foster thoughtful disagreement, be ok to question, disagree and have healthy conflicts.
+      - Be able to resolve conflicts, e.g. by voting weighted based on believeability.
+    - Progress = pain + reflection. It's ok to make mistakes, not ok not to learn from them
+    - Five steps to success:
+      - Have ambitious goals.
+      - Identify mistakes along the way.
+      - Diagnose those mistakes.
+      - Design solutions.
+      - Implement solutions.
   - [#13 Pedro Domingos: The Rise of The Machines](https://open.spotify.com/episode/2WD3c1zCq0KJsOcJOispwG)
     - Great overview of AI and its directions.
     - People tend to overestimate their knowledge.
