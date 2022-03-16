@@ -166,7 +166,7 @@
       - Diagnose those mistakes.
       - Design solutions.
       - Implement solutions.
-  - [#19 Rory Sutherland: The Psychology of Advertising]
+  - [#19 Rory Sutherland: The Psychology of Advertising](https://open.spotify.com/episode/0RhBasXLVTu8vtMnI70XTq)
     - Two types of value: perceived vs objective.
     - Creating value by changing behavior is the most ecological and minimalistic approach.
     - Economics reduced human behavior to a single lever - either fining or rewarding.
