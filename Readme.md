@@ -166,6 +166,15 @@
       - Diagnose those mistakes.
       - Design solutions.
       - Implement solutions.
+  - [#19 Rory Sutherland: The Psychology of Advertising]
+    - Two types of value: perceived vs objective.
+    - Creating value by changing behavior is the most ecological and minimalistic approach.
+    - Economics reduced human behavior to a single lever - either fining or rewarding.
+    - Noone ever got fired for hiring IBM, in corporate people try to avoid blame.
+    - Mathematicisans first creatively create hypotheses and then try to prove them.
+    - Information is easy to create and hard to trust. In typwriter age, seniority implied higher information throughput.
+    - Importance of communication is proportional to cost of its creation and transmission.
+    - Businesses with pressure on short term results are naturally less trustworthy to the customers.
   - [#13 Pedro Domingos: The Rise of The Machines](https://open.spotify.com/episode/2WD3c1zCq0KJsOcJOispwG)
     - Great overview of AI and its directions.
     - People tend to overestimate their knowledge.
