@@ -2,6 +2,12 @@
 
 ## 📰 Articles
 
+- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+  - Code Style
+  - Tests
+  - Documentation
+  - **Implementation Semantics**
+  - **API Semantics**
 - [What are you doing to deserve the talents you need?](https://ritzy-ptarmigan-123.notion.site/What-are-you-doing-to-deserve-the-talents-you-need-7cfcc7c004fd49a7af87ba2f4da19042)
   - Job vs. career vs. calling.
   - Savers vs. investors vs. founders.
