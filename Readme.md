@@ -2,6 +2,12 @@
 
 ## 📰 Articles
 
+- [7 Mental Models For Great Engineering Leadership](https://athenian.com/blog/7-mental-models-for-great-engineering-leadership)
+  - Three areas of success: Impact, Scale, Reliability.
+  - Balance of Deeply Technical vs. People Oriented.
+  - Confidence vs. Competence.
+  - People vs. Process vs. Product.
+  - Adaptable vs. Opinionated vs. Dogmatic.
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
   - Code Style
   - Tests
