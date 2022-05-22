@@ -2,6 +2,10 @@
 
 ## 📰 Articles
 
+- [The Complete Argument Against Crypto](https://www.stephendiehl.com/blog/complete.html)
+  - The governance problems of private money are incompatible with democracy and the rule of law.
+  - There are irremovable privacy, scalability, and recentralization contradictions at the core of any and all permissionless blockchain solutions.
+  - There are vast negative externalities that every blockchain-based investment inevitably entails.
 - [7 Mental Models For Great Engineering Leadership](https://athenian.com/blog/7-mental-models-for-great-engineering-leadership)
   - Three areas of success: Impact, Scale, Reliability.
   - Balance of Deeply Technical vs. People Oriented.
