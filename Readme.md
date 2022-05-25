@@ -2,6 +2,19 @@
 
 ## 📰 Articles
 
+- [A New Era for PLG: Introducing the Age of Connected Work](https://openviewpartners.com/blog/age-of-connected-work/)
+  - PLG principles:
+    - #1: Build for the end user
+    - #2: Build to be discovered
+    - #3: Build to meet your users where they work
+    - #4: Build for openness
+    - #5: Build for flexibility
+    - #6: Build community as a competitive advantage
+    - #7: Deliver instant product value
+    - #8: Deliver instant customer experience
+    - #9: Monetize after you deliver value
+    - #10: Monetize based on usage
+    - #11: Monetize beyond software
 - [The Complete Argument Against Crypto](https://www.stephendiehl.com/blog/complete.html)
   - The governance problems of private money are incompatible with democracy and the rule of law.
   - There are irremovable privacy, scalability, and recentralization contradictions at the core of any and all permissionless blockchain solutions.
