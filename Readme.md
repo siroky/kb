@@ -149,7 +149,7 @@
 - [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
   - Development of AlphaGo and the 5-game match against best Go player in the world that AlphaGo won.
 - [Mistakes and Discoveries While Cultivating Ownership](https://www.youtube.com/watch?v=ddOGmao_cnA)
-  - 5 levels of ownership according to Netflix:
+  - 5 levels of ownership/trust according to Netflix:
     - Demonstration (telling what to do)
     - Oversight (reviewing before completion)
     - Observation (checking after completion)
