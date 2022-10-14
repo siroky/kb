@@ -314,3 +314,14 @@
 - [Stripe Atlas Guides](https://stripe.com/atlas/guides)
 - [Founders Library](https://www.founderlibrary.com/)
 - [Angel Match Pitch Deck Database](https://angelmatch.io/pitch_decks)
+- [Sequoia Pitch Deck Framework](https://twitter.com/thealexbanks/status/1580547830476775425)
+  - Purpose - What's the mission, why does the company exist?
+  - Problem - What's the pain you're addressing and why isn't it solved already?
+  - Solution - What's the value proposition and does it have a moat?
+  - Why Now - Are there any trends that make now the right moment?
+  - Market Size - Total addressable market, serviceable available market, serviceable obtainable market.
+  - Competition - What's the competition and where's the differentiation?
+  - Product - How does the product look like?
+  - Business Model - How do you make money?
+  - Team - What is relevant talent and experience of the team?
+  - Financials - What are the key metrics and how will you use the money?
