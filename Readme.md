@@ -324,4 +324,4 @@
     - **Competition** - What's the competition and where's the differentiation?
   - **Team** - What is relevant talent and experience of the team?
   - **Business Model** - How do you make money?
-  - **Financials** - What are the key metrics and how will you use the money?
+    - **Financials** - What are the key metrics and how will you use the money?
