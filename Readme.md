@@ -322,6 +322,6 @@
   - **Solution** - What's the value proposition and does it have a moat?
     - **Product** - How does the product look like?
     - **Competition** - What's the competition and where's the differentiation?
-  - **Team** - What is relevant talent and experience of the team?
   - **Business Model** - How do you make money?
     - **Financials** - What are the key metrics and how will you use the money?
+  - **Team** - What is relevant talent and experience of the team?
