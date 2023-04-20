@@ -1,7 +1,5 @@
 # Knowledge Base
 
-## Table of Contents
-
 - [📰 Articles](#-Articles)
 - [🎥 Videos](#-Videos)
 - [📝 Guides](#-Guides)
