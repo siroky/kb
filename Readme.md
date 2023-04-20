@@ -1,5 +1,13 @@
 # Knowledge Base
 
+## Table of Contents
+
+- [📰 Articles](#-Articles)
+- [🎥 Videos](#-Videos)
+- [📝 Guides](#-Guides)
+- [📚 Books](#-Books)
+- [🚀 Startups](#-Startups)
+
 ## 📰 Articles
 
 - [A New Era for PLG: Introducing the Age of Connected Work](https://openviewpartners.com/blog/age-of-connected-work/)
@@ -308,7 +316,7 @@
   - Hiring should never be a numbers game. There should always be clear goal of it.
   - Everyone should be incentivized to provide non-anonymous feedback to everyone else. E.g. via KISS once a year.
 
-## 🚀 Startup Content
+## 🚀 Startups
 
 - [Y-Combinator Library](https://www.ycombinator.com/library)
 - [Stripe Atlas Guides](https://stripe.com/atlas/guides)
@@ -316,7 +324,7 @@
 - [Angel Match Pitch Deck Database](https://angelmatch.io/pitch_decks)
 - [Sequoia Pitch Deck Framework](https://twitter.com/thealexbanks/status/1580547830476775425)
 
-### 
+### Assessment
 
 - **Purpose** - Why does the company exist? How will you impact the world?
 - **Problem** - What's the pain you're addressing and why isn't it solved already?
