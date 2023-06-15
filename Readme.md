@@ -8,6 +8,16 @@
 
 ## 📰 Articles
 
+- [How To Optimize Your Free Trial](https://openviewpartners.com/blog/how-to-optimize-your-free-trial/)
+  - Rich sign-up page
+  - Relevant sign-up survey
+  - Onboarding checklist
+  - Personalized templates
+  - Utilized empty states
+  - Contextual help
+  - Resource hub
+  - Upgrade prompts
+  - Explicit trial limits
 - [A New Era for PLG: Introducing the Age of Connected Work](https://openviewpartners.com/blog/age-of-connected-work/)
   - PLG principles:
     - #1: Build for the end user
