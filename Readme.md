@@ -8,6 +8,8 @@
 
 ## 📰 Articles
 
+- [How Google Measures and Manages Tech Debt
+](https://pointer.us9.list-manage.com/track/click?u=e9492ff27d760c578a39d0675&id=85416b3c49&e=a1e100668a)
 - [How To Optimize Your Free Trial](https://openviewpartners.com/blog/how-to-optimize-your-free-trial/)
   - Rich sign-up page
   - Relevant sign-up survey
