@@ -333,6 +333,7 @@
 - [Founders Library](https://www.founderlibrary.com/)
 - [Angel Match Pitch Deck Database](https://angelmatch.io/pitch_decks)
 - [Sequoia Pitch Deck Framework](https://twitter.com/thealexbanks/status/1580547830476775425)
+- [Principles of Pricing by Notion VC](https://www.principlesofpricing.com/)
 
 ### Assessment
 
