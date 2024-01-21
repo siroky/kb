@@ -8,6 +8,15 @@
 
 ## 📰 Articles
 
+- [The 30 Best Pieces of Advice for Entrepreneurs in 2023](https://review.firstround.com/the-30-best-pieces-of-advice-for-entrepreneurs-in-2023)
+  - Set goals by trying to tell a story. Yearly narrative, quarterly stories/chapters.
+  - Product horizons: core product (e.g. 70%), future product (20%), big bets (10%).
+  - One-way door vs. two-way door decisions.
+  - Goal setting philosophy should be consistent (whether success is 70%, 100% or 150%).
+  - Combine narrow and open-ended questions in customer discovery.
+  - For discovery, the best thing we did was ask people to pull up their calendars.
+  - Lean into early founder-led sales, even for a PLG product.
+  - **When you do founder-led sales you’re not just learning how to sell your product, you’re learning how to tell a story. This is essential to sell the vision to investors or to candidates you’re trying to hire.**
 - [LinkedIn Developer Productivity & Happiness Framework](https://linkedin.github.io/dph-framework/)
 - [The pre-PMF Guide to Product Management](https://openviewpartners.com/blog/the-pre-pmf-guide-to-product-management/)
 - [A Guide to Public Speaking for Software Engineers](https://careercutler.substack.com/p/a-guide-to-public-speaking-for-software)
