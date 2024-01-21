@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 
+- [LinkedIn Developer Productivity & Happiness Framework](https://linkedin.github.io/dph-framework/)
 - [The pre-PMF Guide to Product Management](https://openviewpartners.com/blog/the-pre-pmf-guide-to-product-management/)
 - [A Guide to Public Speaking for Software Engineers](https://careercutler.substack.com/p/a-guide-to-public-speaking-for-software)
 - [How Google Measures and Manages Tech Debt](https://pointer.us9.list-manage.com/track/click?u=e9492ff27d760c578a39d0675&id=85416b3c49&e=a1e100668a)
