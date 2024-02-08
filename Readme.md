@@ -8,6 +8,8 @@
 
 ## 📰 Articles
 
+- [Software quality](https://open.substack.com/pub/abinoda/p/software-quality)
+  - Process, Code, System, Product
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2023](https://review.firstround.com/the-30-best-pieces-of-advice-for-entrepreneurs-in-2023)
   - Set goals by trying to tell a story. Yearly narrative, quarterly stories/chapters.
   - Product horizons: core product (e.g. 70%), future product (20%), big bets (10%).
