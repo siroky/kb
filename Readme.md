@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 
+- [Measuring Developer Productivity: Real-World Examples](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae)
 - [Software quality](https://open.substack.com/pub/abinoda/p/software-quality)
   - Process, Code, System, Product
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2023](https://review.firstround.com/the-30-best-pieces-of-advice-for-entrepreneurs-in-2023)
