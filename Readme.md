@@ -33,7 +33,7 @@
   - Combine narrow and open-ended questions in customer discovery.
   - For discovery, the best thing we did was ask people to pull up their calendars.
   - Lean into early founder-led sales, even for a PLG product.
-  - **When you do founder-led sales you’re not just learning how to sell your product, you’re learning how to tell a story. This is essential to sell the vision to investors or to candidates you’re trying to hire.**
+    - **"When you do founder-led sales you’re not just learning how to sell your product, you’re learning how to tell a story. This is essential to sell the vision to investors or to candidates you’re trying to hire."**
 - [LinkedIn Developer Productivity & Happiness Framework](https://linkedin.github.io/dph-framework/)
 - [The pre-PMF Guide to Product Management](https://openviewpartners.com/blog/the-pre-pmf-guide-to-product-management/)
 - [A Guide to Public Speaking for Software Engineers](https://careercutler.substack.com/p/a-guide-to-public-speaking-for-software)
