@@ -8,6 +8,18 @@
 
 ## 📰 Articles
 
+- [The “errors” that mean you’re doing it right](https://longform.asmartbear.com/good-problems-to-have/)
+  - Re-adding stuff to backlog after aggressive cleanup.
+  - Pivoting strategy right after creating it.
+  - Refactoring infra after growing.
+  - Adding words to messaging because it's too terse.
+  - Adding back removed features.
+  - Fixing bugs after releases.
+  - Waiting too long to scale sales / support.
+  - Letting someone go soon after hiring.
+  - Ignoring competitor move.
+  - Rejecting a lucrative, distracting deal.
+  - **But money is not more important than strategy, and it cannot be more important than your values, otherwise you’re saying that you don’t actually have either one. There’s always a way to make more money—a different product, different industry, or breaking the laws or being unethical. There’s a reason why you’re taking the path you’re currently on.**
 - [What makes a great manager of software engineers?](https://www.getquotient.com/insights/what-makes-a-great-manager-of-software-engineers?utm_source=pointer-newsletter&utm_medium=email)
 - [Measuring Developer Productivity: Real-World Examples](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae)
 - [Software quality](https://open.substack.com/pub/abinoda/p/software-quality)
