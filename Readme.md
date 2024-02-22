@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 
+- [What makes a great manager of software engineers?](https://www.getquotient.com/insights/what-makes-a-great-manager-of-software-engineers?utm_source=pointer-newsletter&utm_medium=email)
 - [Measuring Developer Productivity: Real-World Examples](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae)
 - [Software quality](https://open.substack.com/pub/abinoda/p/software-quality)
   - Process, Code, System, Product
