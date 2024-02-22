@@ -19,7 +19,8 @@
   - Letting someone go soon after hiring.
   - Ignoring competitor move.
   - Rejecting a lucrative, distracting deal.
-  - **But money is not more important than strategy, and it cannot be more important than your values, otherwise you’re saying that you don’t actually have either one. There’s always a way to make more money—a different product, different industry, or breaking the laws or being unethical. There’s a reason why you’re taking the path you’re currently on.**
+    - **"If you’re not rejecting lucrative deals that don’t align with your strategy, then you don’t have a strategy. If you’re not rejecting relationships that don’t align with your core values, you don’t have core values."**
+    - **"But money is not more important than strategy, and it cannot be more important than your values, otherwise you’re saying that you don’t actually have either one. There’s always a way to make more money—a different product, different industry, or breaking the laws or being unethical. There’s a reason why you’re taking the path you’re currently on."**
 - [What makes a great manager of software engineers?](https://www.getquotient.com/insights/what-makes-a-great-manager-of-software-engineers?utm_source=pointer-newsletter&utm_medium=email)
 - [Measuring Developer Productivity: Real-World Examples](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae)
 - [Software quality](https://open.substack.com/pub/abinoda/p/software-quality)
