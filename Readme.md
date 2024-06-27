@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 
+- [How to write product strategy in one hour](https://www.linkedin.com/posts/edbiden_how-to-write-a-product-strategy-in-1-hour-activity-7212016887709257728-jNC7)
 - [The “errors” that mean you’re doing it right](https://longform.asmartbear.com/good-problems-to-have/)
   - Re-adding stuff to backlog after aggressive cleanup.
   - Pivoting strategy right after creating it.
